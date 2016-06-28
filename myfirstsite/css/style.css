@@ -10,8 +10,7 @@ body {
  }
 
  .headshot {
-                left: center;
-                right: center;
+                margin: auto;
                 width: 200px;
 
  }

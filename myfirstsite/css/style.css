@@ -1,6 +1,6 @@
 body {
 	font-family: arial
-	background-color: #9AE890;
+	background: #9AE890;
 }
 
  .image1 {
@@ -9,9 +9,7 @@ body {
                 left: 0px;
                 right: 0px;
                 width: 100%;
-                height: 150px;
                 z-index: -1;
-    opacity: 75%;
  }
 
  .image2 {

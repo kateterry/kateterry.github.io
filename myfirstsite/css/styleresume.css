@@ -1,7 +1,11 @@
 body {
-	font-family: arial;
 	background-color: #9AE890
+	font-family: arial;
 }
  img {
  	width: 20%;
+ }
+
+ p {
+ 	font-family: arial;
  }

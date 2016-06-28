@@ -2,3 +2,14 @@ body {
 	background-color: #A9FF97;
 	font-family: arial;
 }
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+a {
+	color: grey;
+}

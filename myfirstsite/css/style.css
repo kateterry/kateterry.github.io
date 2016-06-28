@@ -14,6 +14,8 @@ body {
 
  .image2 {
  	width: 200px;
+ 	position: center
+ 	z-index: -2;
  	
  }
 

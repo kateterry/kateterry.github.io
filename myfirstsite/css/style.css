@@ -10,9 +10,10 @@ body {
  }
 
  .headshot {
-                left: 0px;
-                right: 0px;
+                left: center;
+                right: center;
                 width: 200px;
+
  }
 h1 {
 	text-align: center;

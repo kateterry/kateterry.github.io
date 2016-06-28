@@ -1,6 +1,6 @@
 body {
-	font-family: arial
-	background: #9AE890;
+	font-family: arial;
+	background-color: #9AE890;
 }
 
  .image1 {
@@ -9,12 +9,11 @@ body {
                 left: 0px;
                 right: 0px;
                 width: 100%;
-                z-index: -1;
  }
 
  .image2 {
  	width: 200px;
- 	position: center
- 	z-index: -2;
+ 	
+
  	
  }

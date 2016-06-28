@@ -2,7 +2,11 @@ body {
 	font-family: arial
 }
 
- img {
+ .iamge1 {
+ 	width: 100%
+ }
+
+ .image2 {
  	width: 200px;
  }
 

@@ -1,7 +1,11 @@
 body {
 	font-family: arial
-	width: 20%;
 }
+
  img {
  	width: 5%;
  }
+
+p {
+	max-width: 50%;
+}
